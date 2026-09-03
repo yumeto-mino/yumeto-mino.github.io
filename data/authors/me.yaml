@@ -12,8 +12,8 @@ postnominals: ''
 status:
   icon: "🦭"
 role: First-year Ph.D. Student
-bio: |
-  Coming Soon
+# bio: |
+#   Coming Soon
 
 affiliations:
   - name: Aoyama Gakuin University
